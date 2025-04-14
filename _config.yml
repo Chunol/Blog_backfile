@@ -97,6 +97,7 @@ deploy:
   type: git
   repo: git@github.com:337826465/337826465.github.io.git
   branch: main
+  message:Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
 
 nofollow:
  enable: true
