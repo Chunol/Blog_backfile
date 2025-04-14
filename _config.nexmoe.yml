@@ -109,7 +109,7 @@ widgets:
         widgetLink: #链接组件
             - title: Chunol
               img: https://s21.ax1x.com/2025/04/14/pEWIM8J.jpg
-              link : https://chunol.com/
+              link : https://chunol.top/
 
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
@@ -127,7 +127,7 @@ slotHead: |
 slotFooter: | 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>
 
-# 自定义侧边栏尾部内容
+# 自定义侧边栏底部内容
 # 备案例子：  <br><a target="_blank" href="https://beian.miit.gov.cn/">鄂ICP备2020018486号</a>
 slotSidebar: |
   <br><a target="_blank" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">

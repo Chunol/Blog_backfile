@@ -3,23 +3,8 @@ title: PowerShell：重新安装 oh-my-posh
 tags:
   - 代码
   - Powershell
-excerpt: |-
-  <h1>PowerShell：重新安装 oh-my-posh</h1>
-  <h2 id="起因">起因</h2>
-  <p>最近打开 PowerShell 时，看到这样一条讯息：</p>
-  <p><a href="https://imgse.com/i/pAL4IVx"><img one
 date: 2024-12-18 00:00:00
 ---
-
-# PowerShell：重新安装 oh-my-posh
-
-## 起因
-
-最近打开 PowerShell 时，看到这样一条讯息：
-
-[](https://imgse.com/i/pAL4IVx)
-<!-- more -->
-# PowerShell：重新安装 oh-my-posh
 
 ## 起因
 

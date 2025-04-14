@@ -2,23 +2,10 @@
 title: uigf2.2转uigf4.0(HuTao)
 tags:
   - 代码
-  - 项目
   - 原神
-excerpt: >-
-  <h2 id="代码库">代码库</h2>
-
-  <p>相关代码被托管在 <a
-  href="https://github.com/337826465/uigf2.2-to-uigf4.0-HuTao-">GitHub</a>
-  上，详情见README</p>
-
-  <h2 id="UIGF">
 date: 2024-08-31 00:00:00
 ---
 
-## 代码库
-
-相关代码被托管在 [GitHub](https://github.com/337826465/uigf2.2-to-uigf4.0-HuTao-) 上，详情见README
-<!-- more -->
 ## 代码库
 
 相关代码被托管在 [GitHub](https://github.com/337826465/uigf2.2-to-uigf4.0-HuTao-) 上，详情见README
