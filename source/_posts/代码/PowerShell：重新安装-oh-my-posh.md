@@ -3,6 +3,7 @@ title: PowerShell：重新安装 oh-my-posh
 tags:
   - 代码
   - Powershell
+abbrlink: df4be089
 date: 2024-12-18 00:00:00
 ---
 
