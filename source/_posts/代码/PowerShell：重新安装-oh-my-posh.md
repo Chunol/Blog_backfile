@@ -109,13 +109,14 @@ oh-my-posh font install meslo
 打开 `$PROFILE` 文件
 
 ```
-open $Profile
+notepad $Profile
 ```
 
 在该文件中加入
 
 ```
-# 只是启用 oh-my-poshoh-my-posh init pwsh | Invoke-Expression
+# 只是启用 oh-my-posh
+oh-my-posh init pwsh | Invoke-Expression
 ```
 
 ### 选择主题
@@ -123,7 +124,8 @@ open $Profile
 将刚才的配置稍作修改
 
 ```
-# 设置 PowerShell 主题oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\atomic.omp.json" | Invoke-Expression
+# 设置 PowerShell 主题
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\atomic.omp.json" | Invoke-Expression
 ```
 
 其中 “$env:POSH\_THEMES\_PATH\\atomic.omp.json“ 是对官方主题 atomic.omp.json 的调用
@@ -146,9 +148,9 @@ Get-PoshThemes
 
 官方提到：_“由于 Oh My Posh 的频繁更新，防病毒软件偶尔会对其进行标记（误报）。 为确保 Oh My Posh 不被阻止，您可以将其报告给您最喜欢的防病毒软件作为误报或为其创建排除项。”_
 
-​因此，我们最好把 oh-my-posh 添加到杀毒软件的白名单。
+因此，我们最好把 oh-my-posh 添加到杀毒软件的白名单。
 
-​由于我只使用Windows10的Windows Defender，故只介绍这一个。
+由于我只使用Windows10的Windows Defender，故只介绍这一个。
 
 ### 确定位置
 
